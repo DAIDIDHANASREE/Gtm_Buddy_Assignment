@@ -1,0 +1,201 @@
+id,text_snippet,labels
+1,"We love the analytics, but CompetitorX has a cheaper subscription.",Competition
+2,CompetitorY provides similar features at a lower cost.,"Pricing Discussion, Objection, Competition, Security"
+3,We need more information about the AI engine before proceeding.,"Security, Pricing Discussion, Competition, Objection"
+4,Our compliance team is worried about data handling. Are you SOC2 certified?,"Competition, Security"
+5,Can you offer any discounts on your current pricing model?,Objection
+6,We need more information about the AI engine before proceeding.,"Pricing Discussion, Competition, Objection, Security"
+7,"We love the analytics, but CompetitorX has a cheaper subscription.",Objection
+8,We need more information about the AI engine before proceeding.,Competition
+9,We need more information about the AI engine before proceeding.,"Objection, Pricing Discussion"
+10,CompetitorY provides similar features at a lower cost.,Competition
+11,"We love the analytics, but CompetitorX has a cheaper subscription.",Competition
+12,Can you offer any discounts on your current pricing model?,"Security, Objection"
+13,Can you offer any discounts on your current pricing model?,Objection
+14,We need more information about the AI engine before proceeding.,"Pricing Discussion, Competition, Objection, Security"
+15,Our compliance team is worried about data handling. Are you SOC2 certified?,"Security, Pricing Discussion, Competition"
+16,We need more information about the AI engine before proceeding.,"Pricing Discussion, Objection"
+17,"We love the analytics, but CompetitorX has a cheaper subscription.","Objection, Security, Pricing Discussion, Competition"
+18,"We love the analytics, but CompetitorX has a cheaper subscription.",Competition
+19,Our compliance team is worried about data handling. Are you SOC2 certified?,Pricing Discussion
+20,Can you offer any discounts on your current pricing model?,"Competition, Pricing Discussion, Objection"
+21,Can you offer any discounts on your current pricing model?,"Competition, Security"
+22,"We love the analytics, but CompetitorX has a cheaper subscription.","Objection, Pricing Discussion, Competition"
+23,Our compliance team is worried about data handling. Are you SOC2 certified?,Competition
+24,Our compliance team is worried about data handling. Are you SOC2 certified?,Objection
+25,Can you offer any discounts on your current pricing model?,"Pricing Discussion, Security, Objection"
+26,Our compliance team is worried about data handling. Are you SOC2 certified?,Security
+27,"We love the analytics, but CompetitorX has a cheaper subscription.","Competition, Pricing Discussion"
+28,"We love the analytics, but CompetitorX has a cheaper subscription.",Objection
+29,"We love the analytics, but CompetitorX has a cheaper subscription.","Competition, Objection, Security, Pricing Discussion"
+30,We need more information about the AI engine before proceeding.,"Security, Competition"
+31,Can you offer any discounts on your current pricing model?,"Objection, Competition"
+32,CompetitorY provides similar features at a lower cost.,"Security, Pricing Discussion, Objection"
+33,Our compliance team is worried about data handling. Are you SOC2 certified?,"Objection, Pricing Discussion"
+34,CompetitorY provides similar features at a lower cost.,Competition
+35,CompetitorY provides similar features at a lower cost.,Objection
+36,Our compliance team is worried about data handling. Are you SOC2 certified?,"Security, Competition, Objection"
+37,CompetitorY provides similar features at a lower cost.,Competition
+38,Our compliance team is worried about data handling. Are you SOC2 certified?,Objection
+39,Can you offer any discounts on your current pricing model?,"Objection, Security, Competition, Pricing Discussion"
+40,"We love the analytics, but CompetitorX has a cheaper subscription.","Competition, Security"
+41,Our compliance team is worried about data handling. Are you SOC2 certified?,"Objection, Security, Pricing Discussion"
+42,We need more information about the AI engine before proceeding.,"Competition, Pricing Discussion"
+43,Our compliance team is worried about data handling. Are you SOC2 certified?,"Competition, Security, Pricing Discussion, Objection"
+44,Our compliance team is worried about data handling. Are you SOC2 certified?,Competition
+45,CompetitorY provides similar features at a lower cost.,"Pricing Discussion, Objection"
+46,Can you offer any discounts on your current pricing model?,Pricing Discussion
+47,CompetitorY provides similar features at a lower cost.,"Competition, Pricing Discussion, Objection, Security"
+48,"We love the analytics, but CompetitorX has a cheaper subscription.",Objection
+49,We need more information about the AI engine before proceeding.,"Security, Pricing Discussion, Competition"
+50,Our compliance team is worried about data handling. Are you SOC2 certified?,Pricing Discussion
+51,CompetitorY provides similar features at a lower cost.,"Competition, Objection"
+52,"We love the analytics, but CompetitorX has a cheaper subscription.","Security, Pricing Discussion, Objection"
+53,We need more information about the AI engine before proceeding.,Competition
+54,"We love the analytics, but CompetitorX has a cheaper subscription.","Pricing Discussion, Competition, Security, Objection"
+55,We need more information about the AI engine before proceeding.,Pricing Discussion
+56,Can you offer any discounts on your current pricing model?,"Competition, Pricing Discussion, Security, Objection"
+57,Our compliance team is worried about data handling. Are you SOC2 certified?,"Competition, Security, Pricing Discussion, Objection"
+58,Our compliance team is worried about data handling. Are you SOC2 certified?,"Competition, Objection, Security"
+59,Our compliance team is worried about data handling. Are you SOC2 certified?,"Competition, Objection, Pricing Discussion"
+60,CompetitorY provides similar features at a lower cost.,"Objection, Security, Competition"
+61,"We love the analytics, but CompetitorX has a cheaper subscription.","Pricing Discussion, Security"
+62,"We love the analytics, but CompetitorX has a cheaper subscription.","Objection, Pricing Discussion, Security"
+63,Our compliance team is worried about data handling. Are you SOC2 certified?,"Objection, Pricing Discussion, Competition, Security"
+64,CompetitorY provides similar features at a lower cost.,Pricing Discussion
+65,Can you offer any discounts on your current pricing model?,"Competition, Security, Pricing Discussion"
+66,Our compliance team is worried about data handling. Are you SOC2 certified?,Security
+67,CompetitorY provides similar features at a lower cost.,Objection
+68,Our compliance team is worried about data handling. Are you SOC2 certified?,Competition
+69,"We love the analytics, but CompetitorX has a cheaper subscription.","Pricing Discussion, Objection, Competition"
+70,"We love the analytics, but CompetitorX has a cheaper subscription.",Objection
+71,Can you offer any discounts on your current pricing model?,"Objection, Pricing Discussion, Security"
+72,"We love the analytics, but CompetitorX has a cheaper subscription.","Security, Objection, Competition, Pricing Discussion"
+73,"We love the analytics, but CompetitorX has a cheaper subscription.","Objection, Pricing Discussion"
+74,"We love the analytics, but CompetitorX has a cheaper subscription.","Pricing Discussion, Security"
+75,We need more information about the AI engine before proceeding.,Security
+76,CompetitorY provides similar features at a lower cost.,Pricing Discussion
+77,CompetitorY provides similar features at a lower cost.,"Pricing Discussion, Security, Competition"
+78,Can you offer any discounts on your current pricing model?,"Pricing Discussion, Security"
+79,Our compliance team is worried about data handling. Are you SOC2 certified?,"Competition, Pricing Discussion, Objection"
+80,Can you offer any discounts on your current pricing model?,"Competition, Security, Objection"
+81,Our compliance team is worried about data handling. Are you SOC2 certified?,"Objection, Security, Competition"
+82,Can you offer any discounts on your current pricing model?,"Competition, Security, Objection, Pricing Discussion"
+83,CompetitorY provides similar features at a lower cost.,"Competition, Objection, Security, Pricing Discussion"
+84,We need more information about the AI engine before proceeding.,Security
+85,Can you offer any discounts on your current pricing model?,Security
+86,Can you offer any discounts on your current pricing model?,Objection
+87,Can you offer any discounts on your current pricing model?,"Objection, Competition"
+88,CompetitorY provides similar features at a lower cost.,Competition
+89,Our compliance team is worried about data handling. Are you SOC2 certified?,"Objection, Competition, Pricing Discussion"
+90,CompetitorY provides similar features at a lower cost.,"Security, Objection"
+91,Can you offer any discounts on your current pricing model?,"Objection, Competition, Pricing Discussion, Security"
+92,Can you offer any discounts on your current pricing model?,"Pricing Discussion, Security"
+93,CompetitorY provides similar features at a lower cost.,"Pricing Discussion, Competition"
+94,CompetitorY provides similar features at a lower cost.,Objection
+95,Can you offer any discounts on your current pricing model?,"Security, Objection, Pricing Discussion, Competition"
+96,Can you offer any discounts on your current pricing model?,Competition
+97,"We love the analytics, but CompetitorX has a cheaper subscription.","Objection, Pricing Discussion"
+98,Can you offer any discounts on your current pricing model?,"Security, Competition, Objection, Pricing Discussion"
+99,Our compliance team is worried about data handling. Are you SOC2 certified?,"Competition, Security, Pricing Discussion"
+100,We need more information about the AI engine before proceeding.,Security
+101,We need more information about the AI engine before proceeding.,Security
+102,Our compliance team is worried about data handling. Are you SOC2 certified?,"Objection, Security, Pricing Discussion, Competition"
+103,"We love the analytics, but CompetitorX has a cheaper subscription.","Pricing Discussion, Competition, Objection"
+104,CompetitorY provides similar features at a lower cost.,"Objection, Security, Competition"
+105,"We love the analytics, but CompetitorX has a cheaper subscription.","Competition, Objection, Pricing Discussion, Security"
+106,Can you offer any discounts on your current pricing model?,"Security, Pricing Discussion, Objection, Competition"
+107,"We love the analytics, but CompetitorX has a cheaper subscription.","Security, Competition, Objection"
+108,Our compliance team is worried about data handling. Are you SOC2 certified?,"Security, Competition, Objection"
+109,Our compliance team is worried about data handling. Are you SOC2 certified?,"Pricing Discussion, Objection, Competition, Security"
+110,Our compliance team is worried about data handling. Are you SOC2 certified?,"Objection, Pricing Discussion, Competition"
+111,We need more information about the AI engine before proceeding.,"Objection, Security, Competition, Pricing Discussion"
+112,We need more information about the AI engine before proceeding.,"Pricing Discussion, Competition, Security"
+113,CompetitorY provides similar features at a lower cost.,"Security, Objection, Pricing Discussion, Competition"
+114,CompetitorY provides similar features at a lower cost.,"Competition, Pricing Discussion, Security"
+115,Can you offer any discounts on your current pricing model?,"Competition, Pricing Discussion, Objection, Security"
+116,We need more information about the AI engine before proceeding.,Objection
+117,"We love the analytics, but CompetitorX has a cheaper subscription.","Competition, Pricing Discussion"
+118,Our compliance team is worried about data handling. Are you SOC2 certified?,"Pricing Discussion, Competition, Security"
+119,"We love the analytics, but CompetitorX has a cheaper subscription.","Pricing Discussion, Security"
+120,Can you offer any discounts on your current pricing model?,"Objection, Pricing Discussion, Competition, Security"
+121,We need more information about the AI engine before proceeding.,"Pricing Discussion, Objection, Security"
+122,CompetitorY provides similar features at a lower cost.,Competition
+123,Our compliance team is worried about data handling. Are you SOC2 certified?,"Pricing Discussion, Objection, Security, Competition"
+124,Can you offer any discounts on your current pricing model?,"Security, Competition"
+125,Can you offer any discounts on your current pricing model?,"Pricing Discussion, Objection"
+126,We need more information about the AI engine before proceeding.,"Competition, Pricing Discussion"
+127,Our compliance team is worried about data handling. Are you SOC2 certified?,Security
+128,We need more information about the AI engine before proceeding.,Competition
+129,Can you offer any discounts on your current pricing model?,Competition
+130,We need more information about the AI engine before proceeding.,Competition
+131,Can you offer any discounts on your current pricing model?,"Competition, Security, Objection, Pricing Discussion"
+132,"We love the analytics, but CompetitorX has a cheaper subscription.","Competition, Objection, Security"
+133,"We love the analytics, but CompetitorX has a cheaper subscription.","Pricing Discussion, Competition"
+134,"We love the analytics, but CompetitorX has a cheaper subscription.","Security, Pricing Discussion, Competition"
+135,Our compliance team is worried about data handling. Are you SOC2 certified?,Competition
+136,CompetitorY provides similar features at a lower cost.,"Competition, Security, Objection, Pricing Discussion"
+137,We need more information about the AI engine before proceeding.,"Competition, Pricing Discussion, Security"
+138,Our compliance team is worried about data handling. Are you SOC2 certified?,"Competition, Security, Pricing Discussion, Objection"
+139,Our compliance team is worried about data handling. Are you SOC2 certified?,"Pricing Discussion, Objection"
+140,"We love the analytics, but CompetitorX has a cheaper subscription.","Security, Objection, Competition"
+141,We need more information about the AI engine before proceeding.,Competition
+142,Can you offer any discounts on your current pricing model?,"Competition, Pricing Discussion"
+143,Can you offer any discounts on your current pricing model?,"Competition, Security, Pricing Discussion, Objection"
+144,CompetitorY provides similar features at a lower cost.,Pricing Discussion
+145,We need more information about the AI engine before proceeding.,"Security, Objection, Competition"
+146,Can you offer any discounts on your current pricing model?,"Competition, Pricing Discussion"
+147,We need more information about the AI engine before proceeding.,"Pricing Discussion, Competition, Security, Objection"
+148,"We love the analytics, but CompetitorX has a cheaper subscription.","Security, Pricing Discussion"
+149,We need more information about the AI engine before proceeding.,"Objection, Pricing Discussion, Security, Competition"
+150,Can you offer any discounts on your current pricing model?,Pricing Discussion
+151,Our compliance team is worried about data handling. Are you SOC2 certified?,"Competition, Objection"
+152,Can you offer any discounts on your current pricing model?,"Pricing Discussion, Competition, Objection, Security"
+153,Our compliance team is worried about data handling. Are you SOC2 certified?,"Security, Objection, Competition, Pricing Discussion"
+154,We need more information about the AI engine before proceeding.,"Pricing Discussion, Security, Competition, Objection"
+155,CompetitorY provides similar features at a lower cost.,"Objection, Pricing Discussion"
+156,CompetitorY provides similar features at a lower cost.,"Pricing Discussion, Security, Competition"
+157,Our compliance team is worried about data handling. Are you SOC2 certified?,Objection
+158,Can you offer any discounts on your current pricing model?,"Pricing Discussion, Security"
+159,Can you offer any discounts on your current pricing model?,"Security, Competition"
+160,Our compliance team is worried about data handling. Are you SOC2 certified?,Competition
+161,Our compliance team is worried about data handling. Are you SOC2 certified?,Security
+162,Our compliance team is worried about data handling. Are you SOC2 certified?,"Pricing Discussion, Objection, Security, Competition"
+163,We need more information about the AI engine before proceeding.,Pricing Discussion
+164,Can you offer any discounts on your current pricing model?,"Objection, Competition"
+165,We need more information about the AI engine before proceeding.,"Competition, Pricing Discussion"
+166,CompetitorY provides similar features at a lower cost.,"Security, Competition, Objection"
+167,We need more information about the AI engine before proceeding.,"Pricing Discussion, Competition"
+168,We need more information about the AI engine before proceeding.,Pricing Discussion
+169,Can you offer any discounts on your current pricing model?,"Security, Objection"
+170,We need more information about the AI engine before proceeding.,"Competition, Objection, Pricing Discussion, Security"
+171,"We love the analytics, but CompetitorX has a cheaper subscription.","Security, Objection, Competition, Pricing Discussion"
+172,Can you offer any discounts on your current pricing model?,Pricing Discussion
+173,CompetitorY provides similar features at a lower cost.,"Pricing Discussion, Objection"
+174,Can you offer any discounts on your current pricing model?,Objection
+175,"We love the analytics, but CompetitorX has a cheaper subscription.","Competition, Security, Pricing Discussion"
+176,"We love the analytics, but CompetitorX has a cheaper subscription.","Competition, Pricing Discussion"
+177,We need more information about the AI engine before proceeding.,"Security, Objection, Competition, Pricing Discussion"
+178,Can you offer any discounts on your current pricing model?,"Security, Pricing Discussion, Objection, Competition"
+179,"We love the analytics, but CompetitorX has a cheaper subscription.","Objection, Competition"
+180,Our compliance team is worried about data handling. Are you SOC2 certified?,Pricing Discussion
+181,CompetitorY provides similar features at a lower cost.,"Objection, Competition, Pricing Discussion"
+182,Our compliance team is worried about data handling. Are you SOC2 certified?,"Competition, Pricing Discussion, Security, Objection"
+183,Can you offer any discounts on your current pricing model?,"Security, Objection, Pricing Discussion, Competition"
+184,We need more information about the AI engine before proceeding.,"Pricing Discussion, Objection, Competition"
+185,Can you offer any discounts on your current pricing model?,"Pricing Discussion, Competition, Objection, Security"
+186,Our compliance team is worried about data handling. Are you SOC2 certified?,"Competition, Security, Objection"
+187,Our compliance team is worried about data handling. Are you SOC2 certified?,"Pricing Discussion, Security"
+188,"We love the analytics, but CompetitorX has a cheaper subscription.","Competition, Pricing Discussion, Security, Objection"
+189,"We love the analytics, but CompetitorX has a cheaper subscription.","Pricing Discussion, Competition, Security"
+190,CompetitorY provides similar features at a lower cost.,Objection
+191,"We love the analytics, but CompetitorX has a cheaper subscription.","Objection, Pricing Discussion, Competition, Security"
+192,Can you offer any discounts on your current pricing model?,Pricing Discussion
+193,CompetitorY provides similar features at a lower cost.,"Security, Objection"
+194,We need more information about the AI engine before proceeding.,"Competition, Objection, Pricing Discussion, Security"
+195,"We love the analytics, but CompetitorX has a cheaper subscription.","Competition, Pricing Discussion, Security, Objection"
+196,Our compliance team is worried about data handling. Are you SOC2 certified?,"Pricing Discussion, Objection, Competition, Security"
+197,"We love the analytics, but CompetitorX has a cheaper subscription.","Pricing Discussion, Competition, Security, Objection"
+198,Can you offer any discounts on your current pricing model?,Competition
+199,Can you offer any discounts on your current pricing model?,Security
+200,Our compliance team is worried about data handling. Are you SOC2 certified?,Objection
